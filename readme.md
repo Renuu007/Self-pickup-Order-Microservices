@@ -65,8 +65,8 @@ Follow these steps to get the application running locally.
 
 1.  **Clone the Repository (if you haven't):**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/Renuu007/Self-pickup-Order-Microservices.git
+    cd Self-pickup-Order-Microservices
     ```
 
 2.  **Build Docker Images:**
