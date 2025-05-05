@@ -182,5 +182,6 @@ Follow these steps to get the application running locally.
        |  +-------------------------+  | |  +-------------------------+   | |  +-------------------------+  |
        +-------------------------------+ +--------------------------------+ +-------------------------------+
 
+```
 *Note: For protected endpoints, API Gateway calls Auth Service first to validate the token.
- The called service (e.g., Order Service) might then call other services (e.g., Product Service).
+ The called service (e.g., Order Service) might then call other services (e.g., Product Service).*
